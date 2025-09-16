@@ -1,0 +1,12 @@
+
+Q: How do I reset my password?
+A: Go to the login page, click "Forgot Password", enter your email, and follow the instructions sent to you.
+Q: How long does shipping take?
+A: Standard shipping takes 3-5 business days. Express shipping takes 1-2 business days.
+Q: How do I track my order?
+A: Log into your account and go to "My Orders" to see tracking information.
+Q: What is your return policy?
+A: We accept returns within 30 days of purchase. Items must be unused and in original packaging.
+Q: How do I contact support?
+A: Email us at support@company.com or call 1-800-SUPPORT. We're available 24/7.
+    
